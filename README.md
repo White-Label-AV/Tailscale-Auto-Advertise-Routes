@@ -19,25 +19,16 @@ This tool allows you to easily advertise routes from your Windows device to your
 
 ## How to Use
 
-There are three ways to run the script:
+There are two ways to run the script:
 
-### Option 1: Using the All-In-One batch file (recommended)
-
-1. Download only the `TailscaleRouteAdvertiser-All-In-One.bat` file
-2. Double-click the file
-3. When prompted by User Account Control, click "Yes" to allow the script to run with administrator privileges
-4. Follow the on-screen prompts in the PowerShell window that appears
-
-This option is the simplest as it requires only a single file and handles everything automatically.
-
-### Option 2: Using the separate batch file
+### Option 1: Using the separate batch file
 
 1. Download both `TailscaleRouteAdvertiser.ps1` and `RunTailscaleRouteAdvertiser.bat`
 2. Double-click the `RunTailscaleRouteAdvertiser.bat` file
 3. When prompted by User Account Control, click "Yes" to allow the script to run with administrator privileges
 4. Follow the on-screen prompts in the PowerShell window that appears
 
-### Option 3: Running the PowerShell script directly
+### Option 2: Running the PowerShell script directly
 
 1. Download the `TailscaleRouteAdvertiser.ps1` script
 2. Right-click the script and select "Run with PowerShell as administrator"
